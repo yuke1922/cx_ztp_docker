@@ -10,7 +10,7 @@ Need `Python 3`, `Docker`, and `Docker Compose`
 
 
 ##### cd into project folder
-`cd $baseDir/project
+`cd $baseDir/project`
 ##### Make a Python virtual environment
 `python3 -m venv venv`
 ##### Activate the virtual environment (assume linux)
